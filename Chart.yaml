@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for a Kubernetes app
+name: micro-integrator
+version: 1.0
