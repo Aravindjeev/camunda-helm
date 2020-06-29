@@ -3,7 +3,7 @@ Camnunda is a complete process automation tech stack with powerful execution eng
 
 ## Chart Details
 This chart contains latest image of camunda from official docker repository camunda/camunda-bpm-platform. 
-This chart provide NodePort servictype and doesn't provide a backend DB.
+This chart provides NodePort serviceType exposed to port 8080 and doesn't provide a backend DB.
 
 ## Installing the Chart
 Clone the repository
