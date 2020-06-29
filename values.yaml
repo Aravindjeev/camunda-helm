@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: camunda/camunda-bpm-platform
+  repository: aravindjeev/camunda
   tag: latest
   pullPolicy: Always    
 service:
